@@ -1,3 +1,18 @@
 body {
   font-family: Verdana;
 }
+
+#productsList {
+  border: solid 1px dodgerBlue;
+}
+
+#productsList li {
+  border: solid 1px tomato;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+#spanCount {
+  background-color: dodgerBlue;
+  color: white;
+}
